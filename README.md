@@ -1,16 +1,26 @@
-## Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center"><b>Hi, I'm Emanuel Zamora </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**jez-7/jez-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📖 About me
 
-Here are some ideas to get you started:
+* 💻 I'm a backend developer
+* 📍 I'm from Argentina
+* 👤 I'm 21 years old
+* 🎓 I'm a Software development student
+* 📧 Contact with me: juanemanuelzamora@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg) 
+
+<br>
+<h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+ alt="css3"  /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> </a> <a> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="sql" /> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" /> </a> <a> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" /> </a>  </a>   </a>  </p>
+
+ 
+<h2  > Connect with me</h2>
+
+[<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zamora-juan-emanuel-0ba434245/)
+<br>  
+[<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/emaanuelzz/)
+<br>  
+  
