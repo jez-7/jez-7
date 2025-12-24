@@ -5,8 +5,8 @@
 
 * 💻 I'm a backend developer
 * 📍 I'm from Argentina
-* 👤 I'm 21 years old
-* 🎓 I'm a Software development student
+* 👤 I'm 22 years old
+* 🎓 Software Development Graduate
 * 📧 Contact with me: juanemanuelzamora@gmail.com
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg) 
