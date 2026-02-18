@@ -15,7 +15,7 @@
 <h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,mysql,docker,aws,githubactions,linux,maven,gradle,hibernate,git,github,githubactions,postman,kubernetes,vscode,idea,nginx,rabbitmq,grafana,prometheus,bash,discord,html,css,js&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,mysql,docker,githubactions,maven,hibernate,git,github,postman,vscode,idea,bash,html,css,js&perline=14" />
   </a>
 </p>
 
