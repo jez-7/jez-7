@@ -1,4 +1,4 @@
-## 📖 About me
+## About me
 
 * 💻 I'm a backend developer
 * 📍 I'm from Argentina
@@ -16,9 +16,3 @@
   </a>
 </p>
 
- 
-<h2  > Connect with me</h2>
-
-[<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juan-emanuel-zamora-0ba434245/)
-<br>  
-  
